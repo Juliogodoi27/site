@@ -15,7 +15,7 @@ $pageTitle = "Meu Portfólio de Sites";
     <!-- Cabeçalho -->
     <header>
         <div class="logo">
-            <img src="assets/logo.png" alt="Logo">
+            <img src="logo.png" alt="Logo">
             <h1><?php echo $pageTitle; ?></h1>
         </div>
         <nav>
